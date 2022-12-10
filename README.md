@@ -11,6 +11,8 @@
 - react-dom
 - react-icons
 - react-router-dom
+- redux
+- redux-saga
 
 ---
 
